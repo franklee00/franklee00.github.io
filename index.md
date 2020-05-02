@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 为什么写博客
 
-You can use the [editor on GitHub](https://github.com/franklee00/blogs/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+记录技术学习的点滴、分享干货，欢迎有共同兴趣的朋友一起来探讨。
+博客包含的主要模块有：
+- [x] 金融学及交易技术;
+- [x] 量化交易及程序化交易;
+- [x] Crypto currencies and Blockchain.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+dateFormat 2020-May-03
+*By 2020-May-03*
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/franklee00/blogs/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+**********************
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[e-Mail](lizehangsz@gmail.com)
+[知乎主页](https://www.zhihu.com/people/li-ze-hang)
+![微信（请注明来自github博客）](src)
