@@ -17,4 +17,4 @@
 [知乎主页](https://www.zhihu.com/people/li-ze-hang)  
 
 微信 *请注明来自github博客*
-![](/pics/wechat-qr.png/w/128)
+![](/pics/wechat-qr.png/){:height="128" width="128"}
