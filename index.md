@@ -12,8 +12,7 @@
 
 **********************
 ### Support or Contact
-e-Mail: [mitis4lee@gmail.com](mitis4lee@gmail.com)
-
+e-Mail: <mitis4lee@gmail.com>
 [知乎主页](https://www.zhihu.com/people/li-ze-hang)  
 
-![微信（*请注明来自github博客*）](/pics/wechat-qr.png/ =30x30)
+![微信（*请注明来自github博客*）](./pics/wechat-qr.png/ =30*30)
