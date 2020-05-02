@@ -2,10 +2,10 @@
 
 记录技术学习的点滴、分享干货，欢迎有共同兴趣的朋友一起来探讨。
 博客包含的主要模块有：
-- [x] FinTech
-- [x] Quant and Trading
-- [x] Blockchain
-- [x] 其他有趣的干货
+ [x]  FinTech
+ [x]  Quant and Trading
+ [x]  Blockchain
+ [x]  其他有趣的干货
 
 *By 2020-May-03 05:35*
 
