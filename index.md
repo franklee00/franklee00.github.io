@@ -16,5 +16,7 @@ e-Mail: <mitis4lee@gmail.com>
 
 [知乎主页](https://www.zhihu.com/people/li-ze-hang)  
 
+<html>
 <img src="./pics/wechat-qr.png/" width=128 height=128 />
 微信 *（请注明来自github博客）*
+</html>
