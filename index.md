@@ -12,6 +12,6 @@
 
 **********************
 ### Support or Contact
-邮我: <mitis4lee@gmail.com>
+[我的邮箱](<mitis4lee@gmail.com>)
 
 [知乎主页](https://www.zhihu.com/people/li-ze-hang)  
