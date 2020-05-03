@@ -24,13 +24,14 @@ description: >- # this means to ignore newlines until "baseurl:"
   技术笔记、干货分享，欢迎交流。FinTech、Quant and Trading、Blockchain等等。
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-twitter_username: 
+twitter_username: franklee00
 github_username: franklee00
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archived
 
 # Exclude from processing.
 # The following items will not be processed, by default.
